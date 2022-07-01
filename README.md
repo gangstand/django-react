@@ -1,1 +1,1 @@
-# django_react1
+django_react
